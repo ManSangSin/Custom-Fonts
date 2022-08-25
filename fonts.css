@@ -1,27 +1,27 @@
 @font-face {
   font-family: brontide;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/brontide-font/BrontidevpDemoStyle2-ZV8E3.otf");
+  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/brontide-font/BrontidevpDemoStyle2-ZV8E3.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: hioganke;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/hioganke-font/HiogankeRegular-9Y29K.otf");
+  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/hioganke-font/HiogankeRegular-9Y29K.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: library3am;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/library-3-am-font/Library3am-5V3Z.otf");
+  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/library-3-am-font/Library3am-5V3Z.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: blackmore;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/the-blackmore-font/Theblackmoredemo-lgr5d.otf");
+  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/the-blackmore-font/Theblackmoredemo-lgr5d.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }

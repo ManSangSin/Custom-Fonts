@@ -1,13 +1,13 @@
 @font-face {
   font-family: brontide;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/brontide-font/BrontidevpDemoStyle2-ZV8E3.otf") format("opentype");
+  src: url("https://raw.githack.com/ManSangSin/Custom-Fonts/main/brontide-font/BrontidevpDemoStyle2-ZV8E3.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: hioganke;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/hioganke-font/HiogankeRegular-9Y29K.otf") format("opentype");
+  src: url("https://raw.githack.com/ManSangSin/Custom-Fonts/main/hioganke-font/HiogankeRegular-9Y29K.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -21,7 +21,7 @@
 
 @font-face {
   font-family: blackmore;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/raw/main/the-blackmore-font/Theblackmoredemo-lgr5d.otf") format("opentype");
+  src: url("https://raw.githack.com/ManSangSin/Custom-Fonts/main/the-blackmore-font/Theblackmoredemo-lgr5d.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }

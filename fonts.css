@@ -13,13 +13,6 @@
 }
 
 @font-face {
-  font-family: library3am;
-  src: url("https://github.com/ManSangSin/Custom-Fonts/blob/main/library-3-am-font/Library3am-5V3Z.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
   font-family: blackmore;
   src: url("https://raw.githack.com/ManSangSin/Custom-Fonts/main/the-blackmore-font/Theblackmoredemo-lgr5d.otf") format("opentype");
   font-weight: normal;
